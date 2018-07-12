@@ -1,0 +1,2 @@
+[22-Feb-2015 19:40:15 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '', image_style_path('' (T_CONSTANT_ENCAPSED_STRING) in /home/ethnoideacom/public_html/sites/all/modules/views_php/plugins/views/views_php_handler_field.inc(202) : runtime-created function on line 11
+[22-Feb-2015 19:40:15 Europe/Helsinki] PHP Fatal error:  Function name must be a string in /home/ethnoideacom/public_html/sites/all/modules/views_php/plugins/views/views_php_handler_field.inc on line 219

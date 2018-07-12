@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ /suspended.html [r=307,nc]
